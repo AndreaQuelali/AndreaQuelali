@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-<!--
-**AndreaQuelali/AndreaQuelali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 💾 Databases
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
