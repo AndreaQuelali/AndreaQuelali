@@ -1,5 +1,20 @@
-## Hi there 👋
+## Hi there! 👋
 
+I'm Aliz, a passionate web developer focused on crafting exceptional user experiences through front-end development and thoughtful UI/UX design.
+
+## About Me
+
+🌐 I'm a web developer passionate about building modern, efficient applications using technologies like React, Next.js, TypeScript, and Tailwind CSS on the frontend. I focus on crafting clean, visually appealing, and user-friendly interfaces that deliver a seamless experience.
+
+🎨 For the design process, I work with Figma, where I'm comfortable defining color systems, typography, icons, building reusable components, and creating interactive prototypes to guide development and ensure design consistency.
+
+💡 I'm continuously learning and staying up to date with the latest trends in frontend development. I've contributed to projects where I’ve taken responsibility for bringing designs to life, collaborating closely with multidisciplinary teams. I have experience using libraries like shadcn and Material UI to build accessible, well-structured, and scalable interfaces.
+
+🌱 I'm eager to keep improving as a developer by applying best practices, writing maintainable code, and contributing to meaningful projects that challenge and inspire me.
+
+🤝 Open to new opportunities and collaborations — feel free to reach out if you’d like to connect or work together!
+
+## Skills & Technologies
 
 💾 Databases
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
@@ -25,3 +40,18 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+
+## Top Projects
+
+- [OhSanSi-Frontend](https://github.com/AndreaQuelali/OhSanSi-Frontend) - Aplicación web de inscripción a las olimpiadas Oh! SanSi. 🌟 0 stars
+- [webTime](https://github.com/AndreaQuelali/webTime) - Aplicación web de audiolibros enfocado a personas que buscan material sobre Programación Web. 🌟 4 stars
+- [PyStart](https://github.com/AndreaQuelali/PyStart) - Plataforma web para aprender Python en diferentes idiomas. 🌟 0 stars
+
+## GitHub Stats
+
+🏆 **Public Repositories:** 14  
+👥 **Followers:** 2  
+👣 **Following:** 2  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndreaQuelali&show_icons=true&theme=radical)
+
+## Connect with Me
