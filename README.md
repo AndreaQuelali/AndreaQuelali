@@ -56,16 +56,35 @@ I'm Aliz, a passionate web developer focused on crafting exceptional user experi
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AndreaQuelali&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyo-night&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AndreaQuelali&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyo-night&hide_border=false" height="150" alt="languages graph"  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=AndreaQuelali&show_icons=true&include_all_commits=true&count_private=true&theme=tokyo-night&hide_border=false" 
+    alt="GitHub Stats" 
+    height="180" 
+  />
+  
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaQuelali&layout=compact&langs_count=5&theme=tokyo-night&hide_border=false" 
+    alt="Top Languages" 
+    height="180" 
+  />
 </div>
 
-###
+<br />
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=AndreaQuelali&locale=en&mode=daily&theme=tokyo-night&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=AndreaQuelali&theme=tokyo-night&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img 
+    src="https://streak-stats.demolab.com?user=AndreaQuelali&theme=tokyo-night&hide_border=false&border_radius=5" 
+    alt="GitHub Streak" 
+    height="180" 
+  />
+
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=AndreaQuelali&theme=tokyo-night&no-frame=false&no-bg=false&margin-w=10&margin-h=10" 
+    alt="GitHub Trophies" 
+    height="180" 
+  />
 </div>
+
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AndreaQuelali&theme=tokyo-night&area=true&hide_border=true)
 
