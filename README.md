@@ -1,7 +1,7 @@
 ## Hi there! 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=24&pause=1000&color=A040FF&center=true&vCenter=true&width=600&lines=I'm+Aliz;Frontend+Developer;UX%2FUI+Designer" alt="Typing animation roles" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=24&pause=1000&color=A040FF&center=true&vCenter=true&width=1000&lines=I'm+Aliz;Frontend+Developer;UX%2FUI+Designer" alt="Typing animation roles" />
 </p>
 
 
