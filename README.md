@@ -53,6 +53,8 @@ I'm Aliz, a passionate web developer focused on crafting exceptional user experi
 👥 **Followers:** 2  
 👣 **Following:** 2  
 
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AndreaQuelali&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AndreaQuelali&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
@@ -60,15 +62,14 @@ I'm Aliz, a passionate web developer focused on crafting exceptional user experi
 
 ###
 
-<img align="right" height="150" src="https://tenor.com/es-419/view/cat-computer-typing-busy-gif-15481689"  />
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=AndreaQuelali&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=AndreaQuelali&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/AndreaQuelali/AndreaQuelali/output/snake.svg" alt="Snake animation" />
-
-###
+<div class="tenor-gif-embed" data-postid="814722635465905658" data-share-method="host" data-aspect-ratio="1.33333" data-width="100%"><a href="https://tenor.com/view/typing-cat-keyboard-cat-cat-typing-on-keyboard-hypannd-gif-814722635465905658">Typing Cat Keyboard Cat GIF</a>from <a href="https://tenor.com/search/typing+cat-gifs">Typing Cat GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ## Connect with Me
 
