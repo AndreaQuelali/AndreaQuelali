@@ -67,10 +67,6 @@ I'm Aliz, a passionate web developer focused on crafting exceptional user experi
   <img src="https://github-profile-trophy.vercel.app?username=AndreaQuelali&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
-###
-
-<div class="tenor-gif-embed" data-postid="814722635465905658" data-share-method="host" data-aspect-ratio="1.33333" data-width="100%"><a href="https://tenor.com/view/typing-cat-keyboard-cat-cat-typing-on-keyboard-hypannd-gif-814722635465905658">Typing Cat Keyboard Cat GIF</a>from <a href="https://tenor.com/search/typing+cat-gifs">Typing Cat GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
 ## Connect with Me
 
 <div align="left">
