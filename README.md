@@ -1,10 +1,4 @@
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+there!+👋" alt="Static Hi there greeting" />
-</p>
-
-###
+## Hi there! 👋
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=A040FF&center=true&vCenter=true&width=500&lines=I'm+Aliz;Frontend+Developer;UX%2FUI+Designer" alt="Typing animation roles" />
