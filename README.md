@@ -91,6 +91,8 @@
   <img src="https://github-profile-trophy.vercel.app?username=AndreaQuelali&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
+###
+
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AndreaQuelali&theme=tokyo-night&area=true&hide_border=true)
 
 ## Connect with Me
