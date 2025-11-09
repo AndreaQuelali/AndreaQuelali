@@ -5,7 +5,7 @@
 ## Hi there! 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=32&pause=1000&color=A040FF&center=true&vCenter=true&width=600&lines=I'm+Aliz;Junion+Full-Stack+Developer;UX%2FUI+Designer" alt="Typing animation roles"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=32&pause=1000&color=A040FF&center=true&vCenter=true&width=600&lines=I'm+Aliz;Junior+Full-Stack+Developer;React+Developer;NodeJs+Developer,UX%2FUI+Designer" alt="Typing animation roles"/>
 </p>
 
 
