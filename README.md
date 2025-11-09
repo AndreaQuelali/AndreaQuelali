@@ -5,7 +5,7 @@
 ## Hi there! 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=32&pause=1000&color=A040FF&center=true&vCenter=true&width=600&lines=I'm+Aliz;Frontend+Developer;UX%2FUI+Designer" alt="Typing animation roles" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=32&pause=1000&color=A040FF&center=true&vCenter=true&width=600&lines=I'm+Aliz;Junion+Full-Stack+Developer;UX%2FUI+Designer" alt="Typing animation roles"/>
 </p>
 
 
@@ -36,6 +36,13 @@
 
 📚 Frameworks, Platforms and Libraries
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
@@ -59,6 +66,7 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -66,9 +74,9 @@
  
 ## Top Projects
 
-- [OhSanSi-Frontend](https://github.com/AndreaQuelali/OhSanSi-Frontend) - Aplicación web de inscripción a las olimpiadas Oh! SanSi. 🌟 0 stars
-- [webTime](https://github.com/AndreaQuelali/webTime) - Aplicación web de audiolibros enfocado a personas que buscan material sobre Programación Web. 🌟 4 stars
-- [PyStart](https://github.com/AndreaQuelali/PyStart) - Plataforma web para aprender Python en diferentes idiomas. 🌟 0 stars
+- [OhSanSi-Frontend](https://github.com/AndreaQuelali/OhSanSi-Frontend) - Aplicación web de inscripción a las olimpiadas Oh! SanSi. 
+- [webTime](https://github.com/AndreaQuelali/webTime) - Aplicación web de audiolibros enfocado a personas que buscan material sobre Programación Web. 
+- [PyStart](https://github.com/AndreaQuelali/PyStart) - Plataforma web para aprender Python en diferentes idiomas.
 
 ## GitHub Stats
 
