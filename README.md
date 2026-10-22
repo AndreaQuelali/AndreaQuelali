@@ -26,7 +26,7 @@
 const andrea = {
   name: "Andrea Quelali",
   role: "Full-Stack Developer",
-  focus: ["React", "Next.js", "TypeScript", "AI products"],
+  focus: ["React", "Next.js", "TypeScript", "Node.js", "Python", "AI products"],
   experience: "2+ years building web products in teams",
   currently: "Building an AI-powered legal platform",
   goal: "Open to full-stack roles and collaborations",
