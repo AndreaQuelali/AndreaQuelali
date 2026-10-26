@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B141C,55:1E4F44,100:2F7F6F&height=200&section=header&text=Andrea%20Quelali&fontSize=48&fontColor=ffffff&fontAlign=50&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Products%20%E2%80%A2%20Bolivia&descSize=18&descAlignY=60" alt="Andrea Lizbeth Quelali Quispe — Full-Stack Developer | AI Products" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B141C,55:1E4F44,100:2F7F6F&height=200&section=header&text=Andrea%20Lizbeth%20Quelali%20Quispe&fontSize=48&fontColor=ffffff&fontAlign=50&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Products%20%E2%80%A2%20Bolivia&descSize=18&descAlignY=60" alt="Andrea Lizbeth Quelali Quispe — Full-Stack Developer | AI Products" width="100%"/>
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7FC5B3&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;UI%2FUX+Designer;AI+Product+Builder" alt="Typing animation roles"/>
 
