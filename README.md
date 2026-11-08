@@ -30,7 +30,6 @@ const andrea = {
   experience: "2+ years building web products in teams",
   currently: "Building an AI-powered legal platform",
   goal: "Open to full-stack roles and collaborations",
-  likes: ["cats", "drawing", "travel", "code"],
 };
 ```
 
